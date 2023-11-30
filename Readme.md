@@ -16,3 +16,5 @@ First Download the Dataset from https://huggingface.co/datasets/eugenesiow/Set14
 Upload this images to googledrive in Mydrive with folder name "SMAI_Project".
 Run the Code in google colab.
 Repeat same for all the codes,except we just need to upload "kate_mask.png" locally for "Inpainting_for_text.ipynb". 
+
+##### Results:https://drive.google.com/drive/folders/15IuyqH3MXX3cSMynFcA4rlhAF9T8YFEB?usp=sharing
